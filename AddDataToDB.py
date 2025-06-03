@@ -11,21 +11,21 @@ ref = db.reference('Students')
 
 data = {
     #GUI to enter data using pygame or tkinter
-    "21DCS111":
+    "22DCS040":
         {
-            "name": "Kush Shah",
+            "name": "Nihareeka Makwana",
             "Department": "CSE",
-            "enrollment_year": 2021,
+            "enrollment_year": 2022,
             "Semester": 4,
-            "Last_attendance_time": "2023-02-02 09:15:01"
+            "Last_attendance_time": "2025-02-02 09:15:01"
         },
-    "21DCS200":
+    "22DCS033":
             {
-                "name": "Narendra Modi",
-                "Department": "PMO",
-                "enrollment_year": 2021,
+                "name": "Yashvi Kashundra",
+                "Department": "CSE",
+                "enrollment_year": 2022,
                 "Semester": 4,
-                "Last_attendance_time": "2023-02-02 10:15:01"
+                "Last_attendance_time": "2025-02-02 10:15:01"
             }
 
 }
